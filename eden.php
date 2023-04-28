@@ -3,7 +3,7 @@
 Plugin Name: Eden
 Plugin URI: https://eden.bz/
 Description: Useful functions created by Eden Design & Digital Solutions
-Version: 1.0
+Version: 1.0.0
 Author: Hamidreza(Hoomaan) Sheikholeslami
 Author URI: https://hoomaan.dev/
 License: GPLv2 or later
