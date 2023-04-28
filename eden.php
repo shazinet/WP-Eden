@@ -14,3 +14,15 @@ Text Domain: eden
 if ( ! defined( 'WPINC' ) ) {
 	die;
 }
+
+// Include footer.php file
+include_once( plugin_dir_path( __FILE__ ) . '/includes/footer.php' );
+
+// Add custom admin footer text
+add_filter( 'admin_footer_text', 'custom_admin_footer' );
+
+// Include security.php file
+include_once( plugin_dir_path( __FILE__ ) . '/includes/security.php' );
+
+// Include login-limits.php file
+include_once( plugin_dir_path( __FILE__ ) . '/includes/login-limits.php' );
