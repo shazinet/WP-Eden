@@ -26,3 +26,6 @@ include_once( plugin_dir_path( __FILE__ ) . '/includes/security.php' );
 
 // Include login-limits.php file
 include_once( plugin_dir_path( __FILE__ ) . '/includes/login-limits.php' );
+
+// Include dashboard.php file
+include_once( plugin_dir_path( __FILE__ ) . '/includes/dashboard.php' );

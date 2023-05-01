@@ -5,5 +5,5 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 function custom_admin_footer() {
-	echo 'Thank you for creating your website with <a href="https://eden.bz" target="blank">Eden Group</a>. For any support and update <a href="mailto:support@eden.bz">click here</a>.';
+	echo 'Thank you for creating your website with <a href="#" target="blank">Eden Design & Digital Solutions</a>. For any support and update <a href="mailto:name@email.com">click here</a>.';
 } 
